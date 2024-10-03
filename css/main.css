@@ -1,0 +1,28 @@
+body{
+    background-color:lightslategray ;
+}
+.box{
+    color: beige;
+    border: 5px solid green;
+    /* border width : 5px */
+    border-top-width:6px ;
+    border-right-width:8px ;
+    border-bottom-width:3px ;
+    border-left-width:5px ;
+    /*border-style: solid; */
+    border-top-style: dotted;
+    border-right-style: double;
+    border-bottom-style: dashed;
+    border-left-style: groove;
+    /*border-color: azure; */
+    border-top-color: darkolivegreen;
+    border-bottom-color: fuchsia;
+    border-left-color: darkslategray;
+    border-right-color: maroon;
+    text-align: center;
+    text-transform: none;
+    text-decoration: none;
+    letter-spacing: 5px;
+    word-spacing: 22px;
+    line-height: 30px;
+}
